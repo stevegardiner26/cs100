@@ -28,11 +28,15 @@ smallDude = 'Plankton'
 
 # Exercise 2.1
 # How many seconds are there in 42 minutes 42 seconds?
-42 * 60 + 42
-2562
+minutes = 42 * 60
+seconds = 42
+total_seconds = minutes + seconds
+print(total_seconds)
 
 # Exercise 2.2
 # How many miles are there in 10 kilometers? Hint: there are 1.61 kilometers in a mile.
-10/1.61
-6.211180124223602
+kilometers = 10
+converter = 1.61
+miles = kilometers/converter
+print(miles)
 
