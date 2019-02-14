@@ -1,7 +1,7 @@
 # Steven Gardiner
 # CS 100 2018S Section 004
 # HW 04, February 14, 2018
-import turtle;
+import turtle
 
 # Question 1
 
