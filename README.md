@@ -13,4 +13,4 @@ A compilation of my projects for a basic intro to cs course using Python 3
 
 `HW5_StevenGardiner.py` Loops
 
-`HW6_StevenGardiner.py` 
+`HW6_StevenGardiner.py` Functions
