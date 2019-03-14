@@ -18,3 +18,9 @@ A compilation of my projects for a basic intro to cs course using Python 3
 `HW7_StevenGardiner.py` 
 
 `HW8_StevenGardiner.py` While Loops and Files
+
+`Hw9_StevenGardiner.py` File Interaction
+
+`HW10_StevenGardiner.py` Dictionaries
+
+
