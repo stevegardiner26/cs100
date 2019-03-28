@@ -23,4 +23,5 @@ A compilation of my projects for a basic intro to cs course using Python 3
 
 `HW10_StevenGardiner.py` Dictionaries
 
-
+`dog.py` Assignment 11 Classes
+ 
